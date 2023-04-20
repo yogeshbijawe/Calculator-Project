@@ -1,2 +1,2 @@
 # Calculator-Project
-This is calculator project. This is my first web development project. I used HTML, CSS, JavaScript.
+This is calculator project. Made by using HTML, CSS, JavaScript.
